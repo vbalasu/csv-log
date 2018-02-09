@@ -1,0 +1,16 @@
+{
+  "name": "csv-log",
+  "version": "1.0.1",
+  "description": "Write Javascript objects to a log file in CSV format, so that it can be easily viewed using Excel or any other application that handles CSV files. Also includes utility functions to covert objects to CSV (with or without a header) and CSV to objects",
+  "main": "csv-log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "log",
+    "convert"
+  ],
+  "author": "Vijay Balasubramaniam",
+  "license": "MIT"
+}
